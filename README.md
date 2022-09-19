@@ -6,8 +6,6 @@ Usage
 
 You can use the Github API without a personal token, but if you want to use your token, add it to the .env file
 
-Learn how to create a token here
-
 Install Dependencies
 npm install
 
